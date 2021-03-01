@@ -1,1 +1,2 @@
-# sqlalchemy-challenge
+# sqlalchemy_climate_analysis
+I completed this project using a SQLite database. I used SQLAlchemy to access the database with Python. The automap_base extension generated the object model from the SQL database. Session established the connection to query the database. Matplotlib was used for creating plots. FiveThirtyEight was used to style the plots. Numpy was used for executing calculations. I needed to import the “datetime” module to work with the dates and times from the database. 
